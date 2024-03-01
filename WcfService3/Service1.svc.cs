@@ -14,6 +14,7 @@ namespace WcfService3
     public class Service1 : IService1
     {
         public List<Contrack> Services = new List<Contrack>();
+
         public string AddGet(Contrack contrack)
         {
 
