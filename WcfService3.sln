@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService3", "WcfService3\WcfService3.csproj", "{4DEBF8C4-A04C-4328-AFF7-B707F49126ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{461B1A3F-2106-4D45-971D-52607BB78059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{4D7D61C5-25D8-401A-9EB1-91C4F73EBB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEBF8C4-A04C-4328-AFF7-B707F49126ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEBF8C4-A04C-4328-AFF7-B707F49126ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEBF8C4-A04C-4328-AFF7-B707F49126ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEBF8C4-A04C-4328-AFF7-B707F49126ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461B1A3F-2106-4D45-971D-52607BB78059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461B1A3F-2106-4D45-971D-52607BB78059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461B1A3F-2106-4D45-971D-52607BB78059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461B1A3F-2106-4D45-971D-52607BB78059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7D61C5-25D8-401A-9EB1-91C4F73EBB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7D61C5-25D8-401A-9EB1-91C4F73EBB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7D61C5-25D8-401A-9EB1-91C4F73EBB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7D61C5-25D8-401A-9EB1-91C4F73EBB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059DCCE3-E827-4091-BCDA-333D8D37C284}
+	EndGlobalSection
+EndGlobal
