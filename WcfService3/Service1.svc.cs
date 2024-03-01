@@ -32,10 +32,17 @@ namespace WcfService3
             return contrack1.Name_Contrack;
         }
 
+        [DataContract]
+
         public class Contrack
         {
-            public int Id { get; set; }
+           [DataMember]
+
+             public int Id { get; set; }
+            [DataMember]
+
             public string Name_Contrack { get; set; }
+
             public Contrack(int id, string name_Contrack)
             {
                 Id = id;
